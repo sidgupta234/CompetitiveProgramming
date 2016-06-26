@@ -28,7 +28,7 @@ int main(){
    	   cout<<x[0]<<x.length()-2<<x[x.length()-1]<<endl;
    	
    	else
-   	    cout<<x<<endl;
+   	   cout<<x<<endl;
    }
 
    return 0;
