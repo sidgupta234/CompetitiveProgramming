@@ -18,7 +18,7 @@ typedef long long int lli;
 
 int main(){
   	 string a, b;
-  	cin>>a>>b;
+  	 cin>>a>>b;
   
 	rep(i,a.length())
   		a[i]=tolower(a[i]);
@@ -34,7 +34,6 @@ int main(){
 
   	else 
   		cout<<1<<endl;
-
-return 0; 	
-  
+  		
+return 0;
 }
